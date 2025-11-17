@@ -89,7 +89,7 @@ A gamified personal finance management app that makes budgeting engaging and rew
 - 🏆 Gamification system featuring levels, badges, XP tracking, and streaks
 - 🎨 Vibrant, intuitive UI following Material Design principles
 
-**[View Repository →](https://github.com/St10245564)**
+**[View Repository →](https://github.com/St10245564/Buddget_App.git)**
 
 ---
 
