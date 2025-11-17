@@ -76,7 +76,7 @@ A comprehensive web application that revolutionizes event planning and venue man
 - ☁️ Secure image uploads with Azure Blob Storage integration
 - 🎨 Responsive, modern UI built with Bootstrap 5
 
-**[View Repository →](https://github.com/St10245564)**
+**[View Repository →](https://github.com/St10245564/Event-Management-System.git)**
 
 ---
 
