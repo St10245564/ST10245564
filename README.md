@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** from Johannesburg, South Africa, passionate about building scalable applications that solve real-world problems. Currently sharpening my skills through the **FNB App Academy** while crafting innovative solutions that blend functionality with exceptional user experience.
+I'm a **Full-Stack Developer** from Johannesburg, South Africa, passionate about building scalable applications that solve real-world problems. Currently sharpening my skills through the **FNB App Academy and CAPACITI** while crafting innovative solutions that blend functionality with exceptional user experience.
 
 ```javascript
 const thato = {
@@ -106,7 +106,7 @@ A responsive portfolio showcasing my projects, skills, and professional journey.
 ## 📚 Education & Continuous Learning
 
 🎓 **IIE Diploma in IT (Software Development)** - Rosebank College (2023)  
-💼 **Certificate in Full Stack Development** - FNB App Academy (2024-2025)  
+💼 **Certificate in Full Stack Development** - FNB App Academy   
 📖 Self-taught developer continuously exploring new technologies and best practices
 
 ## 🎯 Core Competencies
