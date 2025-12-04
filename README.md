@@ -123,9 +123,9 @@ As a **Community Tech Enthusiast** in Orange Farm, Johannesburg, I volunteer my 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=St10245564&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=St10245564&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=St10245564&layout=compact&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=St10245564&layout=compact&theme=radical)
   
 </div>
 
