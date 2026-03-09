@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Thato Kenny Msina
+# Hey there, I'm Thato Kenny Msina
 
 <div align="center">
   
