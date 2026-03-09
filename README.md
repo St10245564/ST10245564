@@ -10,14 +10,29 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** from Johannesburg, South Africa, passionate about building scalable applications that solve real-world problems. Currently sharpening my skills through the **FNB App Academy and CAPACITI** while crafting innovative solutions that blend functionality with exceptional user experience.
+I'm a **Data Engineer & Software Developer** from Johannesburg, South Africa 🇿🇦, passionate about building scalable data systems and applications that transform raw data into meaningful insights.
+
+Currently sharpening my skills through the **FNB App Academy and CAPACITI Data Engineering program**, where I work with **data pipelines, analytics workflows, and cloud technologies** to build real-world data-driven solutions.
+
+---
 
 ```javascript
 const thato = {
     location: "Johannesburg, South Africa 🇿🇦",
-    currentFocus: ["Full-Stack Development", "Cloud Integration", "Mobile Development"],
-    learning: ["Django", "Python", "RESTful APIs", "Advanced Azure Services"],
-    motto: "Clean code isn't written by following rules. It's written with care."
+    role: "Data Engineer & Software Developer",
+    currentFocus: [
+        "Data Engineering",
+        "Data Pipelines",
+        "Data Cleaning & Transformation",
+        "Data Analytics"
+    ],
+    learning: [
+        "Python for Data Engineering",
+        "SQL & Data Modeling",
+        "Cloud Data Platforms",
+        "Big Data Technologies"
+    ],
+    motto: "Turning raw data into meaningful insights."
 };
 ```
 
